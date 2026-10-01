@@ -20,4 +20,3 @@ Reunimos, organizamos e explicamos os dados oficiais de salário do Brasil: remu
 - Só fonte oficial. Sem estimativa de usuário nem opinião sobre se um salário é justo.
 - Público e privado nunca se misturam no mesmo número.
 - Sem CPF nem dado sensível; nomes de servidores só na busca, como a fonte os publica.
-- Assinatura sempre da marca: Equipe Ganha Quanto.
